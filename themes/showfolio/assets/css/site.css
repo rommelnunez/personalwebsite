@@ -1,0 +1,73 @@
+/* Custom Styles */
+/* body {
+  font-family: "Inter", sans-serif;
+} */
+body {
+  font-family: "franklin-gothic-atf", sans-serif;
+}
+/* Fonts */
+
+/* inter-300 - latin */
+/* @font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/inter-v3-latin-300.eot"); 
+  src: local(""),
+    url("/fonts/inter-v3-latin-300.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/inter-v3-latin-300.woff2") format("woff2"),
+     url("/fonts/inter-v3-latin-300.woff")
+      format("woff"),
+     url("/fonts/inter-v3-latin-300.ttf")
+      format("truetype"),
+     url("/fonts/inter-v3-latin-300.svg#Inter")
+      format("svg"); 
+} */
+@font-face {
+  font-family:"franklin-gothic-atf";
+  src:url("https://use.typekit.net/af/c1ecf4/00000000000000007735c727/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/c1ecf4/00000000000000007735c727/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/c1ecf4/00000000000000007735c727/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+  }
+/* inter-500 - latin */
+/* @font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/inter-v3-latin-500.eot"); 
+  src: local(""),
+    url("/fonts/inter-v3-latin-500.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/inter-v3-latin-500.woff2") format("woff2"),
+     url("/fonts/inter-v3-latin-500.woff")
+      format("woff"),
+     url("/fonts/inter-v3-latin-500.ttf")
+      format("truetype"),
+     url("/fonts/inter-v3-latin-500.svg#Inter")
+      format("svg"); 
+} */
+@font-face {
+  font-family:"franklin-gothic-atf";
+  src:url("https://use.typekit.net/af/5595d6/00000000000000007735c72c/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/5595d6/00000000000000007735c72c/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/5595d6/00000000000000007735c72c/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+  }
+
+/* inter-700 - latin */
+/* @font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/inter-v3-latin-700.eot"); 
+  src: local(""),
+    url("/fonts/inter-v3-latin-700.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/inter-v3-latin-700.woff2") format("woff2"),
+     url("/fonts/inter-v3-latin-700.woff")
+      format("woff"),
+     url("/fonts/inter-v3-latin-700.ttf")
+      format("truetype"),
+     url("/fonts/inter-v3-latin-700.svg#Inter")
+      format("svg"); 
+} */
+@font-face {
+  font-family:"franklin-gothic-atf";
+  src:url("https://use.typekit.net/af/f16283/00000000000000007735c732/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/f16283/00000000000000007735c732/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/f16283/00000000000000007735c732/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+  }
