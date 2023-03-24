@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article
+  class="mb-16 max-w-5xl mx-auto px-4 prose lg:prose-lg prose-blue dark:prose-dark"
+>
+  <h1 class="font-bold text-3xl">{{ .Title }}</h1>
+  {{ .Content }}
+  <script src='https://pictimecloudaf-m.azureedge.net/pictures/scripts/compiled/artgalleryembed.js'></script><iframe frameborder='0' id='pictimeIntegration' src='https://rommelnunez.pic-time.com/client?headless=true' style='width:100%;height:100%'></iframe>
+</article>
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/rommelnunezg/photoshoot', text: 'Book now!', color: '#ed2939', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
+{{ end }}
