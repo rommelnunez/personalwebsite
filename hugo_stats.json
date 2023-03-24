@@ -9,9 +9,11 @@
       "div",
       "footer",
       "h1",
+      "h2",
       "head",
       "header",
       "html",
+      "iframe",
       "img",
       "li",
       "line",
@@ -24,6 +26,7 @@
       "rect",
       "script",
       "section",
+      "strong",
       "svg",
       "title",
       "ul"
@@ -156,7 +159,10 @@
       "z-0"
     ],
     "ids": [
-      "nav-menu"
+      "graduation-portraits",
+      "nav-menu",
+      "pictimeIntegration",
+      "rates-1-hour-shoot"
     ]
   }
 }
