@@ -16,7 +16,7 @@ url: /graduationportraits
 For groups larger than 4, please reach out to me!
 
 ### Deliverables
-*30 mastered, full-resolution JPEGs* of your choosing delivered to your email address within 2 weeks of the photoshoot. You may order prints, photobooks, and much more through the album to be delivered straight to your door!
+*30 mastered, full-resolution JPEGs* of your choosing delivered to your email address within 2 weeks of you selecting the images. You may order prints, photobooks, and much more through the gallery to be delivered straight to your door!
 
 **Scroll to see the gallery and details on booking!**
 
