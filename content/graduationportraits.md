@@ -14,7 +14,7 @@ url: /graduationportraits
 - $600 for 4 people
 
 ### Deliverables
-*30 mastered, full-resolution JPEGs* delivered to your email address within 2 weeks of the photoshoot. You may order prints, photobooks, and much more through the album to be delivered straight to your door!
+*30 mastered, full-resolution JPEGs* of your choosing delivered to your email address within 2 weeks of the photoshoot. You may order prints, photobooks, and much more through the album to be delivered straight to your door!
 
 **Scroll to see the gallery and details on booking!**
 
