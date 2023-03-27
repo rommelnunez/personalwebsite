@@ -13,6 +13,8 @@ url: /graduationportraits
 - $500 for 3 people
 - $600 for 4 people
 
+For groups larger than 4, please reach out to me!
+
 ### Deliverables
 *30 mastered, full-resolution JPEGs* of your choosing delivered to your email address within 2 weeks of the photoshoot. You may order prints, photobooks, and much more through the album to be delivered straight to your door!
 
@@ -21,12 +23,11 @@ url: /graduationportraits
 ---
 <script src='https://pictimecloudaf-m.azureedge.net/pictures/scripts/compiled/artgalleryembed.js'></script><iframe frameborder='0' id='pictimeIntegration' src='https://rommelnunez.pic-time.com/client?headless=true' style='width:100%;height:100%'></iframe>
 ---
+
 ## Details and Cancellation Policy
 Note: all rates account for post processing and equipment fees.
 
-If you would like me to use **film** during your session, that would be an additional $56 dollars in film and processing fees.
-
-For groups larger than 4, please reach out to me!
+If you would like me to use **film** during your session, that would be an additional *$56 dollars* in film and processing fees.
 
 If you are ready to book, please find a time that works for you through the button at the corner of the screen. They are filling quickly!
 
