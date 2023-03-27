@@ -14,7 +14,8 @@ title = "Rommel Nunez"
 
   copyright = "Copyright © 2023 - Rommel Nunez · All rights reserved."
   favicon = "favicon.ico"
-
+[markup.goldmark.renderer]
+  unsafe = true
 [params.homepage]
   title = "Hey 👋 I'm Rommel Nunez"
   tagline = "Filmmaker, Photographer, Engineer and Content Creator"

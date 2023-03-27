@@ -7,11 +7,15 @@
       "br",
       "circle",
       "div",
+      "em",
       "footer",
       "h1",
       "h2",
+      "h3",
+      "h4",
       "head",
       "header",
+      "hr",
       "html",
       "iframe",
       "img",
@@ -159,10 +163,13 @@
       "z-0"
     ],
     "ids": [
-      "graduation-portraits",
+      "cancellation-policy",
+      "deliverables",
+      "details-and-cancellation-policy",
       "nav-menu",
       "pictimeIntegration",
-      "rates-1-hour-shoot"
+      "rates-1-hour-shoot",
+      "scroll-to-see-the-gallery-and-details-on-booking"
     ]
   }
 }
