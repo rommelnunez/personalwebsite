@@ -10,7 +10,7 @@ title = "Rommel Nunez"
   author = "Rommel Nunez"
   authorEmail = "rommelnunez@gmail.com"
   authorImage = "/photo.png"
-  autoDarkMode = false
+  autoDarkMode = true
 
   copyright = "Copyright © 2023 - Rommel Nunez · All rights reserved."
   favicon = "favicon.ico"
@@ -18,14 +18,14 @@ title = "Rommel Nunez"
   unsafe = true
 [params.homepage]
   title = "Hey 👋 I'm Rommel Nunez"
-  tagline = "Filmmaker, Photographer, Engineer and Content Creator"
-  description = "I produce/direct music videos, dance videos, films, design useful software and create online content."
+  tagline = "Director, Producer, DP, Photographer, and Editor"
+  description = "I have over 6 years of experience creating digital content for clients such Skip Marley, Sarkodie, Eva Westphal, and many, many more."
   contact = "mailto:rommelnunezg@gmail.com"
 
 [params.homepage.vimeo]
   username = "apvarun"
-  videos = ["https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/edc196af-c54e-4cf2-8452-73f8fbddefa1.gif?ClientID=vimeo-core-prod&Date=1672994127&Signature=f9d150ae188de6df510fedd25946ce6f147b9215", "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/53b55ff1-293e-40ad-93b9-786ac1b911ee.gif?ClientID=vimeo-core-prod&Date=1672996225&Signature=2687458d3eb8b9ca584027f0952d868fbf31be0c", "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5b0b21d5-3fcc-45f1-bd5c-4d86b460115b.gif?ClientID=vimeo-core-prod&Date=1672996560&Signature=8e4269094d502c4458488329c3348bbed61cbda1", "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7a329f34-6c6e-4249-97ed-b99af666a58f.gif?ClientID=vimeo-core-prod&Date=1672997035&Signature=c3d216c09142ea8d4063a27f7f50962d5ee9e87c","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/524adcb1-fcc5-4d9a-b8aa-6ba71ad198a8.gif?ClientID=vimeo-core-prod&Date=1672997276&Signature=a35578f248d4d78a5ee2126bdde230affb2584f7","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/2b47d35d-8daa-46b7-a376-c37d59a47bf6.gif?ClientID=vimeo-core-prod&Date=1672997536&Signature=82be85f9675605969288dfadd105cc3531964f78","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/8521cfaa-eb25-40a1-92f0-9fdbadecfe67.gif?ClientID=vimeo-core-prod&Date=1672997629&Signature=f9539cc4245ce31991584fadc97fc8fde0f9b50c","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/f1e09f12-d480-4d90-b420-b7f928e7d2d8.gif?ClientID=vimeo-core-prod&Date=1672997762&Signature=86e959a9d46845e1fad340212940af922fcba7c9","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/18f4e52f-5c25-48c4-b864-6aa98adae0a5.gif?ClientID=vimeo-core-prod&Date=1672998129&Signature=ec20a6c696919759ffb1ca7488ef3596d495c4bf"]
-  links = ["774527458", "774847587", "774651309", "774646337","775167968","775138709","775156693","775379109","775145020"]
+  videos = ["https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/11cfa269-6416-4c9e-ae40-b18a6961dcd1.gif?ClientID=vimeo-core-prod&Date=1690818016&Signature=f676c95e9ddcb6226c13291b9df70604b8456c74","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/31058704-67f6-488b-b692-fcd962f1af69.gif?ClientID=vimeo-core-prod&Date=1690817763&Signature=f281417be75e3404d1c10968fb61628562b7df49","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/edc196af-c54e-4cf2-8452-73f8fbddefa1.gif?ClientID=vimeo-core-prod&Date=1672994127&Signature=f9d150ae188de6df510fedd25946ce6f147b9215", "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/53b55ff1-293e-40ad-93b9-786ac1b911ee.gif?ClientID=vimeo-core-prod&Date=1672996225&Signature=2687458d3eb8b9ca584027f0952d868fbf31be0c", "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5b0b21d5-3fcc-45f1-bd5c-4d86b460115b.gif?ClientID=vimeo-core-prod&Date=1672996560&Signature=8e4269094d502c4458488329c3348bbed61cbda1", "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7a329f34-6c6e-4249-97ed-b99af666a58f.gif?ClientID=vimeo-core-prod&Date=1672997035&Signature=c3d216c09142ea8d4063a27f7f50962d5ee9e87c","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/524adcb1-fcc5-4d9a-b8aa-6ba71ad198a8.gif?ClientID=vimeo-core-prod&Date=1672997276&Signature=a35578f248d4d78a5ee2126bdde230affb2584f7","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/2b47d35d-8daa-46b7-a376-c37d59a47bf6.gif?ClientID=vimeo-core-prod&Date=1672997536&Signature=82be85f9675605969288dfadd105cc3531964f78","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/8521cfaa-eb25-40a1-92f0-9fdbadecfe67.gif?ClientID=vimeo-core-prod&Date=1672997629&Signature=f9539cc4245ce31991584fadc97fc8fde0f9b50c","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/f1e09f12-d480-4d90-b420-b7f928e7d2d8.gif?ClientID=vimeo-core-prod&Date=1672997762&Signature=86e959a9d46845e1fad340212940af922fcba7c9","https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/18f4e52f-5c25-48c4-b864-6aa98adae0a5.gif?ClientID=vimeo-core-prod&Date=1672998129&Signature=ec20a6c696919759ffb1ca7488ef3596d495c4bf"]
+  links = ["850047134","830330487","774527458", "774847587", "774651309", "774646337","775167968","775138709","775156693","775379109","775145020"]
 
 [params.homepage.youtube]
   username = "apvarun"

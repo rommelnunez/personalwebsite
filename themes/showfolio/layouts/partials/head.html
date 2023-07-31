@@ -19,6 +19,7 @@
   {{- if .Site.IsServer }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
   {{ else }}
+  
   {{- $styles := $styles| minify | fingerprint | resources.PostProcess -}}
   <link
     rel="stylesheet"
@@ -26,7 +27,7 @@
     integrity="{{ $styles.Data.Integrity }}"
   />
   {{ end -}}
-
+  
   {{ if .Site.Params.autoDarkMode }}
   <script>
     // On page load or when changing themes
@@ -37,4 +38,5 @@
     }
   </script>
   {{ end }}
+  
 </head>

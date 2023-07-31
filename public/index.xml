@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rommel Nunez</title>
+    <link>https://rommelnunez.com/</link>
+    <description>Recent content on Rommel Nunez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rommelnunez.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduation Portraits</title>
+      <link>https://rommelnunez.com/graduationportraits/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rommelnunez.com/graduationportraits/</guid>
+      <description>Rates (1 hour shoot) $250 for 1 person $400 for 2 people $500 for 3 people $600 for 4 people For groups larger than 4, please reach out to me!
+Deliverables 30 mastered, full-resolution JPEGs of your choosing delivered to your email address within 2 weeks of you selecting the images. You may order prints, photobooks, and much more through the gallery to be delivered straight to your door!
+Scroll to see the gallery and details on booking!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://rommelnunez.com/about/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rommelnunez.com/about/</guid>
+      <description>Hi there! I am Rommel Nunez, a senior at Columbia University&amp;rsquo;s School of Engineering and Applied Sciences where I am studying Computer Science and film. I have always been passionate about mentorship and teaching. I have had the opportunity to serve as a teaching assistant for two of Columbia&amp;rsquo;s largest undergraduate Computer Science courses for the last 6 semesters and as head teaching assistant for the last 2. In addition to my studies, I have gained valuable industry experience through internships as a Product Manager at a health-tech startup and as a Data Engineer at JP Morgan Chase &amp;amp; Co.</description>
+    </item>
+    
+  </channel>
+</rss>

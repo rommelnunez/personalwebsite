@@ -8,3 +8,7 @@
 @import "node_modules/tailwindcss/utilities";
 /*Franklin Gothic font*/
 @import "https://use.typekit.net/sto5ndy.css";
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+    color: inherit;
+}
