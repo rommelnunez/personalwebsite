@@ -41,19 +41,29 @@ title = "Rommel Nunez"
   skills = ["Adobe Premiere Pro", "Adobe After Effects", "Davinci Resolve", "Adobe Photoshop", "Adobe Lightroom","Screenwriting", "Editing","Film Directing", "Production", "Film Coloring","Photography", "Product Management", "Software Engineering","Leadership","Applied AI/ML Modeling", "Applied NLP", "Reinforcement Learning Modeling", "Computational Data Analysis"]
 
 [[params.homepage.resume.work]]
+  name = "Freelance"
+  role = "Film Director & Producer"
+  duration = "July 2021 - Present"
+
+[[params.homepage.resume.work]]
+  name = "JUV Consulting"
+  role = "Producer / Junior Partner"
+  duration = "July 2023 - Present"
+
+[[params.homepage.resume.work]]
   name = "Columbia University"
   role = "Head Computer Teaching Assistant"
-  duration = "September 2020 - Present"
+  duration = "September 2020 - May 2023"
 
 [[params.homepage.resume.work]]
   name = "Ratrock Magazine"
   role = "President / Former Visuals Director"
-  duration = "December 2020 - Present"
+  duration = "December 2020 - May 2023"
 
 [[params.homepage.resume.work]]
   name = "Columbia Daily Spectator"
   role = "Senior Staff Photographer / Former Deputy City News Photo Editor"
-  duration = "January 2020 - Present"
+  duration = "January 2020 - May 2023"
 
 [[params.homepage.resume.work]]
   name = "JPMorgan Chase & Co."
