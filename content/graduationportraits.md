@@ -1,7 +1,7 @@
 ---
 author: Rommel Nunez
 title: Graduation Portraits
-date: 2023-03-24
+date: 2024-03-03
 description:
 keywords: ["photography", "portraits","wedding","graduation"]
 type: graduationportraits
@@ -13,7 +13,7 @@ url: /graduationportraits
 - $500 for 3 people
 - $600 for 4 people
 
-For groups larger than 4, please reach out to me!
+For groups larger than 4, you'll be paying the base rate of $600 + $50 for each additional person.
 
 ## New this year! 
 If you refer someone for my services, you both receive a *10% discount!*
